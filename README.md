@@ -62,3 +62,13 @@ I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
 </div>
+
+***
+### 📓 Notes:
+<div>
+    [Python](https://www.notion.so/Python-afdf3003ae0844ce8fafdbfe22a46ec5)
+    [Javascript](https://www.notion.so/JavaScript-8d3a6804f6894029ae07d538a3e7fd31)
+    [Data Science]()
+    [Java]()
+</div>
+
