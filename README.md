@@ -66,9 +66,9 @@ I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 ***
 ### 📓 Notes:
 <div>
-    [Python](https://www.notion.so/Python-afdf3003ae0844ce8fafdbfe22a46ec5)
-    [Javascript](https://www.notion.so/JavaScript-8d3a6804f6894029ae07d538a3e7fd31)
-    [Data Science]()
-    [Java]()
+    <ul>
+        <li><a href='https://www.notion.so/Python-afdf3003ae0844ce8fafdbfe22a46ec5'>Python</a></li>
+        <li><a href='https://www.notion.so/JavaScript-8d3a6804f6894029ae07d538a3e7fd31'>Javascript</a></li>
+    </ul>
 </div>
 
