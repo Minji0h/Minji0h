@@ -9,10 +9,12 @@
 
 ### :woman_technologist: About Me:
 
-I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
 
 
 - :telescope: I’m working as a Aplication Developer, analizing client necessities.
+
+- :heart: I love computers and programmation.
 
 - :seedling: Exploring Data Science.
 
