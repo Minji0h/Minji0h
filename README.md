@@ -9,7 +9,7 @@
 
 ### :woman_technologist: About Me:
 
-I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil. In love with data and data analize, i like to talk and study Physic, Astronomy and Neuroscience.
 
 
 - :telescope: I’m working as a Aplication Developer, analizing client necessities.
@@ -42,7 +42,7 @@ I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 ****
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-    <h3>Versioning</h3>
+    <h3>Versioning</h3>:
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/subversion/subversion-original.svg" title="SVN" alt="SVN" width="40" height="40"/>&nbsp;
 </div>
