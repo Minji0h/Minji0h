@@ -42,8 +42,16 @@ I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 ****
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+    <h3>Versioning</h3>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/subversion/subversion-original.svg" title="SVN" alt="SVN" width="40" height="40"/>&nbsp;
+</div>
+<div>
+    <h3>Languages: </h3>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+</div>
+<div>
+    <h3>Frameworks: </h3>
 </div>
