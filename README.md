@@ -19,6 +19,8 @@ I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 - :seedling: Exploring Data Science.
 
+- :book: Currently studying for the Data Scientist certification
+
 - :zap: In my free time, I study and solve computing problems
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Barbara-blue?style=flat&logo=Linkedin&logoColor=white)]("https://br.linkedin.com/in/barbara-m-7b6098126?trk=people-guest_people_search-card")
@@ -62,6 +64,10 @@ I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
     <h3>Project management: </h3>
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
+</div>
+
+<h3>Notebooks: </h3>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
 </div>
 
 ***
