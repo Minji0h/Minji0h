@@ -10,10 +10,11 @@
 
 ### :woman_technologist: About Me:
 
-I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil. In love with data and data analize, i like to talk and study Physic, Astronomy and Neuroscience.
+<p>I'm a Computer Science and Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil. </p>
 
+<p> In love with data and data analize, I like to talk and study Physic, Astronomy and Neuroscience.</p>
 
-- :telescope: I’m working as a Aplication Developer, analizing client necessities.
+- :telescope: I’m working as a Aplication Developer, Analizing client necessities.
 
 - :heart: I love computers and programmation.
 
